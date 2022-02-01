@@ -62,8 +62,4 @@ public class Autor {
 		return "Autor [yazarId=" + yazarId + ", yazarIsim=" + yazarIsim + ", kitapBilgi=" + kitapBilgi + "]";
 	}
 
-
-		
-	
-	
 }
